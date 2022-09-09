@@ -25,5 +25,5 @@ https://www.markdownguide.org/basic-syntax
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 
-##### VSC Extension to preview Markdown code:
+#### VSC Extension to preview Markdown code:
 https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
