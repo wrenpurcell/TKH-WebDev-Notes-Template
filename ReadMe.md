@@ -6,7 +6,7 @@ Hello TKH Web Development Fellows! This repo is a template for you to use to kee
 How to use:
 1. Fork and Clone this repo 
 2. Open repo in VSC
-3. For each week, duplicate the note-weekly-template.md file, and put the duplicate in the weekly folder
+3. For each week, open the corresponding folder, and edit the dates and topic
 4. Edit dates and topic 
 5. Every class day: add notes, resource links, and your daily reflection 
 6. Push to Github after each day 
