@@ -1,10 +1,11 @@
-# Week 1, 9/12 - 9/14
+# Week [week#]
+## [month]/[day] - [month]/[day]
 
 # Topic:
 
 ___
 
-### Day 1, 9/12
+### Day 1, [month]/[day]
 
 #### 🗒️Notes from class:
 
@@ -14,20 +15,21 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 👁️Two things I would like to know more about:
-1.
-2.
+1. 
+2. 
 
 ✋One thing I'm having trouble understanding:
-1.
+1. 
+
 
 ___
 
-### Day 2, 9/13 
+### Day 2, [month]/[day] 
 
 #### 🗒️Notes from class:
 
@@ -37,20 +39,20 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 👁️Two things I would like to know more about:
-1.
-2.
+1. 
+2. 
 
 ✋One thing I'm having trouble understanding:
-1.
+1. 
 
 ___
 
-### Day 3, 9/14
+### Day 3, [month]/[day]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -59,14 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 👁️Two things I would like to know more about:
-1.
-2.
+1. 
+2. 
 
 ✋One thing I'm having trouble understanding:
-1.
+1. 
+ 
 

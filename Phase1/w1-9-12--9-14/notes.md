@@ -1,4 +1,4 @@
-# Week [week#]
+# Week 1
 ## [month]/[day] - [month]/[day]
 
 # Topic:
