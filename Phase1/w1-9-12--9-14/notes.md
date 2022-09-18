@@ -1,11 +1,11 @@
 # Week 1
-## [month]/[day] - [month]/[day]
+## [09]/[12] - [09]/[14]
 
-# Topic:
+# Topic: Orientation
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [09]/[12]
 
 #### 🗒️Notes from class:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [09]/[13] 
 
 #### 🗒️Notes from class:
 
@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [09]/[14]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
