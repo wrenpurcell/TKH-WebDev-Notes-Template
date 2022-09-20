@@ -1,12 +1,12 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week2]
+## [September]/19] - [month]/[day]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
-
+### Day 1, [month]/[19]
+I'M PUSHING CODE. CODE WAS CORRECTLY PUSHED!!! YAY!
 #### 🗒️Notes from class:
 
 #### 📚Resources:
