@@ -6,9 +6,9 @@
 ___
 
 ### Day 1, [month]/[day]
-
+asaldaslkdmasldaslmd
 #### 🗒️Notes from class:
-
+`~
 #### 📚Resources:
 
 
