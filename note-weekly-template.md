@@ -1,11 +1,11 @@
-# Week [week#]
+# Week [week2]
 ## [month]/[day] - [month]/[day]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [Septemner]/[20]
 
 #### 🗒️Notes from class:
 
@@ -15,9 +15,9 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to shift through branches.
+2. How to connect local to remote.
+3. How to connect visual studio code to the terminal.
 
 👁️Two things I would like to know more about:
 1. 
