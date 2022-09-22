@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to create a pull request
+2. How to create new branches
+3. How to use the git switch command instead of git checkout
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to write better javascript 
+2. Remembering the importance structures on creating a website
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Understing git errors really well for trouble shooting
  
 
