@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned that flexbox was a module of CSS
+2. I learned how to use some of flex box basic elements.
+3. I learned how to use external, internal, and inline CSS elements.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know how to properly call the flexbox module.
+2. I would like to know how to call other modules othen than flexbox in CSS.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding how to use the flexbox commands to get the intended result.
 
 ___
 
