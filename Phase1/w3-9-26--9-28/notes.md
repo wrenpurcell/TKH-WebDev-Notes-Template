@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to use flex box direction.
+2. I learned how to use nesting in flexbox. 
+3. I learned about css grid.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know how to improve my wireframes
+2. I would like to know more about structuring elements in HTML
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Working on my Javascript commands
  
 
