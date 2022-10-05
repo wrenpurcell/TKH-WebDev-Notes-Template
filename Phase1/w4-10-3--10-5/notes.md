@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to use the confirm() method for JS.
+2. I learned how to save a variable in a prompt.
+3. I learned how to use .LowerCase() method.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to customize the output of the confirm() method.
+2. I would like to know about looping conditionals.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I have trouble understanding complex if statments to make the chessboard.
 
 ___
 
