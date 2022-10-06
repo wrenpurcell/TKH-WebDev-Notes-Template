@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to put 2 functions together.
+2. I learned how to use Defer in JS
+3. I learned how a game is created with JS
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to use parameters in my functions.
+2. Using Javascript to control HTML and CSS
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to use recursion for DOM manipulation
  
 
