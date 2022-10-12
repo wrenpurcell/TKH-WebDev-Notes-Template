@@ -44,8 +44,8 @@ ___
 3. I learned how to nest a funciton inside a function
 
 👁️Two things I would like to know more about:
-1. I would like to know more about using function parameters 
-2. I would like to know about
+1. I would like to know more about using function parameters
+2. I would like to know more using evals
 
 ✋One thing I'm having trouble understanding:
 1. I still having trouble understanding the logic of complex nesting
