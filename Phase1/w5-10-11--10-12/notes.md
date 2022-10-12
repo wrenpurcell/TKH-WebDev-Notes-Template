@@ -1,11 +1,11 @@
 # Week [week#]
-## [month]/[day] - [month]/[day]
+## [October]/[10] - [October]/[12]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [October]/[10] //NA HOLIDAY OFF
 
 #### 🗒️Notes from class:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [October]/[11] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to reassign of a value with the toLowerCase() cmd
+2. I learned how to calculate inside a function 
+3. I learned how to nest a funciton inside a function
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about using function parameters 
+2. I would like to know about
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I still having trouble understanding the logic of complex nesting
 
 ___
 
