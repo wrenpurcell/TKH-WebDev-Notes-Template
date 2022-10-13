@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [October]/[12]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about the DOM
+2. I learned how to use the cmd document method
+3. I learned how to manipulate HTML with JavaScript
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to understand how to target elements in the DOM
+2. I would like to understand how to use eventListeners 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I have trouble understanding the syntax necessary to control the DOM
  
 
