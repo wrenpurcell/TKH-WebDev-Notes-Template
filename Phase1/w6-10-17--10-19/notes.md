@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned to nest for loops
+2. I learned to iterate with JavaScript Do...While Loops
+3. I learned how to replace loops with recursion 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I'd like to know more about recursions
+2. I'd like to know how to use profile lookups
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Mixing objects. methods, and recursions together
  
 
