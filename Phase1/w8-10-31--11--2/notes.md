@@ -1,4 +1,4 @@
-# Week [week#8]
+w# Week [week#8]
 ## [October]/[31] - [November]/[2]
 
 # Topic:
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned how to use Methods
+2. I learned more about the onload() function
+3. I learned more about eventlistners
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Knowing when to use innerHTML
+2. Calling ID's with DOM interactions 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Calling parameters in the function 
 
 ___
 
