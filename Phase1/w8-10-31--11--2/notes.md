@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to use .map method 
+2. Using the filter method 
+3. Using the reduce method 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to more about using .map
+2. I would like to know how to use the chaining method more
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble building my synatx logic
  
 
